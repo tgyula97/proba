@@ -20,7 +20,7 @@ public class MainApp extends Application {
         initHomepageLayout();
 
     }
-
+ ///BLABLABLA
     public void initHomepageLayout(){
         try{
             FXMLLoader loader = new FXMLLoader();
